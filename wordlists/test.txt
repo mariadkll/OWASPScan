@@ -1,0 +1,10 @@
+/.env
+/.env.local
+/.env.dev
+/.env.development
+/.env.prod
+/.env.production
+/.env.test
+/.env.testing
+/.env.stage
+/.env.staging
