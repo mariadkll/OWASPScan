@@ -142,4 +142,4 @@ OWASPScan was designed and implemented as a lightweight and uncertainty-aware we
 
 **Author:** Maria Doukkali
 **Institution:** Al Akhawayn University in Ifrane
-**Field:** Computer Science, Cybersecurity Specialisation
+**Field:** Computer Science, Cybersecurity Specialization
